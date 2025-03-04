@@ -1,28 +1,28 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "role": "Intern: SQL",
+    "organisation": "CODTECH IT SOLUTIONS",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Developed a database for an online retail store, including products, customers, orders, and payments using MySQL Workbench.", " Developed a database for managing employee records, including personal details, job positions, departments, and salaries using MySQL Workbench."],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "Intern: Web Development",
+    "organisation": "Internpe",
+    "startDate": "nov, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Ecommerce website using HTML, CSS", "Connect Four Game using HTML, CSS"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Intern: C++ Programming",
+    "organisation": "Codsoft",
+    "startDate": "Jan, 2024",
+    "endDate": "Feb, 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "ToDo List",
+      "Number Guessing Game"
     ],
     "imageSrc": "history/netflix.png"
   }

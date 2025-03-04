@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
+    "title": "PROJECT: ONLINE RETAIL STORE",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": " Developed a database for an online retail store, including products, customers, orders, and payments. This project involves more complex queries and database design. Designing tables for products, customers, orders, and payments using SQL queries to handle customer orders and payment processing.",
+    "skills": ["MySQl", "Workbench", "Database"],
+    
+    "source": "https://github.com/DeepikaAnandhan2/CODTECH-TASK1"
   },
   {
-    "title": "Project B",
+    "title": "Project: EMPLOYEE DATABASE",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a database for managing employee records, including personal details, job positions, departments, and salaries. This project involves creating complex relationships and queries. Also designing the tables for employees, departments, and job positions by using SQL queries for Employee Database.",
+    "skills": ["MySQl", "Workbench", "Database"],
+   
+    "source": "https://github.com/DeepikaAnandhan2/CODTECH-TASK2"
   },
   {
-    "title": "Project C",
+    "title": "Project: NumberGuessingGame",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A simple number guessing game built using C++ Programming. The program provides hints like too high or too low until the correct number is guessed. ",
+    "skills": ["C++"],
+ 
+    "source": "https://github.com/DeepikaAnandhan2/CODSOFT/blob/main/Number%20Guessing%20Game.cpp"
+  },
+  {
+    "title": "Project: ToDo List",
+    "imageSrc": "projects/project.png",
+    "description": "A console-based to-do list application where users can add, remove, and mark tasks as completed. The program allows users to manage their daily tasks efficiently.",
+    "skills": ["C++"],
+ 
+    "source": "https://github.com/DeepikaAnandhan2/CODSOFT/blob/main/Number%20Guessing%20Game.cpp"
   }
 ]

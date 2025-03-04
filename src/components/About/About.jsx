@@ -17,30 +17,28 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Frontend Development</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              I'm passionate about frontend development and have experience building responsive and optimized websites like E-commerce platform.
+              </p>
+            </div>
+          </li>
+          
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <div className={styles.aboutItemText}>
+              <h3>UI Designing</h3>
+              <p>
+              I have experience in UI/UX design using Figma, focusing on creating intuitive and user-friendly interfaces.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Backend Development</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              I'm exploring backend development to expand my skill set and build full-stack applications.
               </p>
             </div>
           </li>
